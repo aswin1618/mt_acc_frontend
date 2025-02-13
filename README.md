@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📥 Installation
 
-Currently, two official plugins are available:
+1. **Clone this repository**  
+   ```sh
+   git clone https://github.com/your-username/your-repo.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Installation**
+    cd repo-name
+    npm install
+3. **Setup .env file**
+    Create a .env file in the root directory and add your variables:
+        VITE_LOGO_URL ,VITE_HOME_IMG, VITE_HOME_CARD_IMG,VITE_CNT_CARD_IMG,VITE_CNT_CARD_IMG2,VITE_CNT_CARD_IMG3,VITE_CNT_CARD_IMG4,VITE_CNT_CARD_IMG5,VITE_ABT_IMG
+
+4.**Start the development server**
+    npm run dev
