@@ -3,15 +3,17 @@
 ## 📥 Installation
 
 1. **Clone this repository**  
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
+    ```sh
+    git clone https://github.com/your-username/your-repo.git
+    ```
 
-2. **Installation**
+2. **Installation**  
     ```sh
     cd repo-name
     npm install
-    
-3. **Setup .env file**
+    ```
+
+3. **Setup .env file**  
     Create a .env file in the root directory and add your variables:
     ```sh
     VITE_LOGO_URL
@@ -22,7 +24,9 @@
     VITE_CNT_CARD_IMG4
     VITE_CNT_CARD_IMG5
     VITE_ABT_IMG
+    ```
 
-4.**Start the development server**
+4. **Start the development server**  
     ```sh
     npm run dev
+    ```
